@@ -1,0 +1,6 @@
+{
+  "name": "Novu® London — High-Fashion Novus",
+  "description": "Fully 3D fashion characters, ready to redesign digital couture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
